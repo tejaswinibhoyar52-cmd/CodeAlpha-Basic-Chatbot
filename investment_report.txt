@@ -1,0 +1,3 @@
+Stock Portfolio Tracker Report
+==============================
+Total Investment Value: ₹20120
